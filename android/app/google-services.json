@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018606323345",
+    "project_id": "sikkim-tourism-e2423",
+    "storage_bucket": "sikkim-tourism-e2423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018606323345:android:e433a5eaf26f9a4291a130",
+        "android_client_info": {
+          "package_name": "com.example.sikkimtourism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI7p7Y3MjSw-x9fN1rYA5hLFaZJKvXsbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
